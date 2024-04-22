@@ -17,7 +17,6 @@ public class ChecadorDeIdentidade {
         }else{
             System.out.println("Esse filme é para maiores de 18 anos!");
         }
-
         scanner.close();
     }
 }
